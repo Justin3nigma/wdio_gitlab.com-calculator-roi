@@ -1,4 +1,5 @@
-ROI Calculator using WebdriverIO
+**ROI Calculator using WebdriverIO**
+
 This repository contains a script for calculating ROI (Return on Investment) using WebdriverIO, as well as tests for the basic features of a website. The script and tests were created as a part of a project to identify errors and check the functioning of the ROI calculator.
 
 Getting started
