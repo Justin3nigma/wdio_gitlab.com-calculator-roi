@@ -11,7 +11,7 @@ installed. You can install it using npm by running the following command:
 
 Once you have WebdriverIO installed, you can clone this repository to your local machine using the following command:
 
-**git clone https://github.com/your-username/your-repo-name.git**
+**git clone https://github.com/Justin3nigma/wdio_gitlab.com-calculator-roi.git**
 
 ### Running the script
 To run the ROI calculator script, you'll need to provide the necessary inputs. You can do this by editing the config.js file in the src directory. Once you've entered the inputs, you can run the script using the following command:
